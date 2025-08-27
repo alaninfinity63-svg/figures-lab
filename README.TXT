@@ -41,3 +41,6 @@ The project also demonstrates
 A good second project to look at after this is "picture", which adds a class
 to those ones in this project. That class (named "Picture") uses the shapes
 to draw a picture. It can be used to experiment with coding.
+
+
+they way more files in chapter 1 than on the git respitories
